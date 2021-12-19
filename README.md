@@ -4,11 +4,11 @@
 
 > Desktop
 
-![Desktop Design](./desktop-design.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 
 > Mobile
 
-![Mobile Design](./mobile-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
 
 ## Challenge
 
